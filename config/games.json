@@ -5,6 +5,21 @@
     "title": "Aquapark Slides"
   },
   {
+    "link": "projects/crossyroad/index.html",
+    "imgSrc": "projects/crossyroad/c.jpg",
+    "title": "Crossy Road"
+  },
+  {
+    "link": "projects/madalin-stunt-cars-3/index.html",
+    "imgSrc": "projects/madalin-stunt-cars-3/m.jpg",
+    "title": "madalin stunt cars 3"
+  },
+  {
+    "link": "projects/just-fall/index.html",
+    "imgSrc": "projects/just-fall/j.jpg",
+    "title": "Just Fall"
+  },
+  {
     "link": "projects/1/index.html",
     "imgSrc": "projects/1/meta/apple-touch-icon.png",
     "title": "1"
